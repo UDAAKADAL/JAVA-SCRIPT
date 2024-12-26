@@ -1,6 +1,6 @@
 import os
 
-for i in range(3, 21):
+for i in range(1, 21):
     folder_name = f"lec{i}"
     os.makedirs(folder_name)  # Create the folder
 
