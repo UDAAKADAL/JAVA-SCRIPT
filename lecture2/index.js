@@ -55,5 +55,5 @@ console.log(b)
 //     undefined
 //     BigInt
 //     Symbol
-2> non primitive
+// 2> non primitive
 
