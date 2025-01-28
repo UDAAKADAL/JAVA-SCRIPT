@@ -21,3 +21,4 @@ console.log("pre increment =",--a);
 //post increment
 console.log("post increment =",a++);
 console.log("post increment =",a--);
+
